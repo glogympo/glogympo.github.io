@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glogympo.github.io/sitemap.html.gz
+Sitemap: https://glogympo.github.io/app/sitemap.html.gz
+Sitemap: https://glogympo.github.io/assets/sitemap.html.gz
+Sitemap: https://glogympo.github.io/css/sitemap.html.gz
+Sitemap: https://glogympo.github.io/includes/sitemap.html.gz
+Sitemap: https://glogympo.github.io/item/sitemap.html.gz
+Sitemap: https://glogympo.github.io/src/sitemap.html.gz
